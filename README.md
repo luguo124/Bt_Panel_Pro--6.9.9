@@ -10,7 +10,7 @@
 结束：该版本 防火墙7.2 更新较慢 停留当前版本！无需面板安装 防火墙 直接使用脚本安装防火墙（实际降级处理！）
 安装 6.9.9 面板
 Bt_Panel_Pro 腳本（Centos）：极速安装方式 (安装时间1至10分钟)
-yum -y install wget;wget https://btpanel.net/install/install_6.0.sh && bash install_6.0.sh
+yum -y install wget;wget https://raw.githubusercontent.com/luguo124/Bt_Panel_Pro--6.9.9/master/install_6.0.sh && bash install_6.0.sh
 Bt_Panel_Pro 腳本（Ubuntu）：极速安装方式 (安装时间1至10分钟)
 待更新～！
 Bt_Panel_Pro 腳本（Debian）：极速安装方式 (安装时间1至10分钟)
